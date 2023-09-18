@@ -8,3 +8,5 @@
 fixed_point_iteration_1D.m  用不动点法解非线性方程式的数值解
 
 counter_example_1.m  G-可微但是不连续的多元函数示例
+
+counter_example_2.m  G-可微但是不是F-可微
