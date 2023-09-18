@@ -6,3 +6,5 @@
 
 ### 课程代码说明
 fixed_point_iteration_1D.m  用不动点法解非线性方程式的数值解
+
+counter_example_1.m  G-可微但是不连续的多元函数示例
